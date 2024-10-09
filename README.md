@@ -6,4 +6,4 @@ Hi, I'm Ben Nahum - a passionate software engineer interested in full-stack deve
 - 🌱 I’m currently learning advanced Node.js and CI/CD practices to streamline development workflows.
 - 👯 I’m looking to collaborate on open-source full-stack projects and innovative solutions in web development.
 - 💬 Ask me about [HDL-diagram](https://github.com/BenNahum6/hdl-diagram) and full-stack development, React, Node.js, and software testing.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ben-nahum-5039331b4/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ben-nahum-5039331b4/) | [E-mail](bennahum6@gmail.com)
